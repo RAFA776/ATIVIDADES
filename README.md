@@ -6,8 +6,8 @@ Tarefa 3:
 https://github.com/RAFA776/ATIVIDADES/blob/main/Quantidade%20de%20alunos%20estrangeiros%20por%20nacionalidade.xlsx
 ![image](https://github.com/user-attachments/assets/42779fcb-204f-4ddc-8855-7b5d77fe70dd)
 
-https://github.com/RAFA776/ATIVIDADES/blob/main/Quantidade%20de%20alunos%20estrangeiros%20por%20nacionalidade.xlsx
-Tarefa 4:- Segunda atividade Excel: Usando fórmulas e dados abertos e apresentação em power BI
+
+Tarefa 4:
 ![image](https://github.com/user-attachments/assets/c9b705a1-48ad-4bd4-a0d9-b841323daae0)
 
 Tarefa 5: Power Bi Atividade aberta e Git Hub
