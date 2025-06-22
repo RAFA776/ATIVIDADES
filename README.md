@@ -2,11 +2,12 @@
 ATVIDADES G.P.I
 
 Atividade 2
+
 Quantidade de alunos estrangeiros
 [Quantidade.de.alunos.estrangeiros.por.nacionalidade_2.Semestre.2023.xlsx](https://github.com/user-attachments/files/20855089/Quantidade.de.alunos.estrangeiros.por.nacionalidade_2.Semestre.2023.xlsx)
 
 Tarefa 3: 
-
+utilizando o Power Bi Power BI da quantidade de alunos estrangeiros por nacionalidade
 ![image](https://github.com/user-attachments/assets/42779fcb-204f-4ddc-8855-7b5d77fe70dd)
 
 
