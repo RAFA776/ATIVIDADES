@@ -25,6 +25,8 @@ Sorvete[Ice.Cream.Atividade.xlsx](https://github.com/user-attachments/files/2085
 Google colab sorvete
 ![image](https://github.com/user-attachments/assets/ef80075d-f5b9-4fb9-8e75-d9fde79beacb)
 https://colab.research.google.com/drive/1pKHNqCyPsc14CB91E5cEcOp18gfkC2jU?usp=drive_link
+Atividade cerveja 
+Atividade 
 
 Atividade 7 Power Apps
 https://github.com/user-attachments/assets/f29d423e-d071-43f1-8ea2-d59276056073
