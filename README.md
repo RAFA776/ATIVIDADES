@@ -18,3 +18,6 @@ https://github.com/RAFA776/ATIVIDADES/blob/main/despesa_funcao.xlsm
 Tarefa 5
 https://github.com/RAFA776/ATIVIDADES/blob/main/Trabalho%20INFORMATICA.pbix
 ![image](https://github.com/user-attachments/assets/6345e9ca-6d90-4a0d-a99f-95145a9741b3)
+
+Atividade 6 
+Sorvete[Ice.Cream.Atividade.xlsx](https://github.com/user-attachments/files/20854512/Ice.Cream.Atividade.xlsx)
