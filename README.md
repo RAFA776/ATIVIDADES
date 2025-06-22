@@ -14,7 +14,7 @@ utilizando o Power Bi Power BI da quantidade de alunos estrangeiros por nacional
 https://github.com/RAFA776/ATIVIDADES/blob/main/Quantidade%20de%20alunos%20estrangeiros%20por%20nacionalidade.xlsx
 ![image](https://github.com/user-attachments/assets/c9b705a1-48ad-4bd4-a0d9-b841323daae0)
 
-Tarefa 5: Power Bi Atividade aberta e Git Hub
+Tarefa 4: Power Bi Atividade aberta e Git Hub
 Escolher um repositório de bancos abertos, fazer a limpeza e adaptação para as 3 perguntas que elaboramos. Assim como na 3° atividade teríamos que responder essa atividade tanto no powerbi quanto no excel.
 https://github.com/RAFA776/ATIVIDADES/blob/main/despesa_funcao.xlsm
 ![image](https://github.com/user-attachments/assets/cfba7ecb-755c-4726-8a45-07e4efda2fd7)
