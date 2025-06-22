@@ -21,3 +21,10 @@ https://github.com/RAFA776/ATIVIDADES/blob/main/Trabalho%20INFORMATICA.pbix
 
 Atividade 6 
 Sorvete[Ice.Cream.Atividade.xlsx](https://github.com/user-attachments/files/20854512/Ice.Cream.Atividade.xlsx)
+![image](https://github.com/user-attachments/assets/f1172966-9cc2-4aee-aa05-f675dd42030c)
+Google colab sorvete
+![image](https://github.com/user-attachments/assets/ef80075d-f5b9-4fb9-8e75-d9fde79beacb)
+https://colab.research.google.com/drive/1pKHNqCyPsc14CB91E5cEcOp18gfkC2jU?usp=drive_link
+
+
+
