@@ -1,6 +1,8 @@
 # ATIVIDADES
 ATVIDADES G.P.I
 
+Atividade 2 Quantidade de alunos estrangeiros
+[Quantidade.de.alunos.estrangeiros.por.nacionalidade_2.Semestre.2023.xlsx](https://github.com/user-attachments/files/20855089/Quantidade.de.alunos.estrangeiros.por.nacionalidade_2.Semestre.2023.xlsx)
 
 Tarefa 3: 
 
