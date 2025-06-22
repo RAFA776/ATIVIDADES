@@ -11,7 +11,6 @@ utilizando o Power Bi Power BI da quantidade de alunos estrangeiros por nacional
 ![image](https://github.com/user-attachments/assets/42779fcb-204f-4ddc-8855-7b5d77fe70dd)
 
 
-Tarefa 4:
 https://github.com/RAFA776/ATIVIDADES/blob/main/Quantidade%20de%20alunos%20estrangeiros%20por%20nacionalidade.xlsx
 ![image](https://github.com/user-attachments/assets/c9b705a1-48ad-4bd4-a0d9-b841323daae0)
 
