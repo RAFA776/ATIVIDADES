@@ -35,6 +35,8 @@ Atividade
 Atividade 7 Power Apps
 https://github.com/user-attachments/assets/f29d423e-d071-43f1-8ea2-d59276056073
 
+Ativiade Power apps prova: 
+
 
 
 
