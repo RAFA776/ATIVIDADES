@@ -33,7 +33,9 @@ Atividade cerveja
 Atividade 
 
 Atividade 7 Power Apps
-https://github.com/user-attachments/assets/f29d423e-d071-43f1-8ea2-d59276056073
+https://github.com/user-attachments/assets/3d83a842-c419-4c20-94ca-641d3085818f
+
+
 
 Ativiade Power apps prova: 
 
