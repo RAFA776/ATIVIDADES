@@ -33,7 +33,8 @@ Atividade cerveja
 Atividade 
 
 Atividade 7 Power Apps
-https://github.com/user-attachments/assets/3d83a842-c419-4c20-94ca-641d3085818f
+
+Registro de cliente: https://github.com/user-attachments/assets/3d83a842-c419-4c20-94ca-641d3085818f
 
 
 
