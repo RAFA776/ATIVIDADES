@@ -36,6 +36,14 @@ Atividade 7 Power Apps
 
 Registro de cliente: https://github.com/user-attachments/assets/3d83a842-c419-4c20-94ca-641d3085818f
 
+Registro fornecedor: https://github.com/user-attachments/assets/059d6076-7165-42df-a8ed-1a0efa4a6c52
+
+Registro Vendas: https://github.com/user-attachments/assets/f1906d7d-9488-49b2-9082-49b9bf132bb0
+
+
+
+
+
 
 
 Ativiade Power apps prova: 
