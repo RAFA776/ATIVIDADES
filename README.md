@@ -46,7 +46,7 @@ Registro Vendas: https://github.com/user-attachments/assets/f1906d7d-9488-49b2-9
 
 
 
-Ativiade Power apps prova: 
+
 
 
 
